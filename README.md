@@ -4,7 +4,7 @@
 
 [Demo](https://pomodoro-clock-11252.web.app/)
 
-Minimalistic Pomodoro Clock (You can change session and break time in the "more opition icon" )
+Minimalistic Pomodoro Clock (You can change session and break's time in the "more option icon")
 
 ## Installation
 
