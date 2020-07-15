@@ -107,8 +107,6 @@ class App extends React.Component {
           >
           </audio>
 
-          {/* <Footer /> */}
-
         </MuiThemeProvider>
       </Box>
     )
